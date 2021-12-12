@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @nakisraki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nakisraki/nakisraki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Игра в процессе разработки
+install SFML
+ТЕКУЩЕЕ СОСТОЯНИЕ ИГРЫ 
+./MENU (start game space)
